@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ali Ziabary</h1>
 <h3 align="center">A Passionate Senior Full Stack Developer from the US with a Focus on Angular and .NET Technologies</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliziabary11" alt="aliziabary11" /></a> </p>
-
 - 👯 I’m looking to collaborate on **Innovative projects that push the boundaries of web and software development, particularly those that leverage Angular, .NET, or Node.js. I'm excited about contributing to open-source projects, startups looking to make a significant impact, or any initiative that aims to improve user experiences through cutting-edge technologies. Whether it's developing scalable web applications, exploring new frameworks, or optimizing existing codebases, I'm here to bring my expertise and passion for technology to collaborate with like-minded individuals and teams.**
 
 - 💬 Ask me about **Angular for building dynamic, responsive web applications Full Stack development with .NET or Node.js for scalable, robust backend solutions Leading tech teams to success in fast-paced environments Best practices for front-end development and UX/UI design Transitioning from monolithic to microservices architectures Implementing effective agile methodologies and CI/CD pipelines Leveraging TypeScript for type-safe, maintainable codebases**
