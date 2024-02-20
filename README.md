@@ -1,21 +1,20 @@
 <h1 align="center">Ali Ziabary</h1>
 <h3 align="center">A passionate senior full-stack developer from the US, specializing in Angular and .NET technologies.</h3>
 
-- 👯 I'm seeking to collaborate on innovative projects that push the boundaries of web and software development, especially those utilizing Angular, .NET, or Node.js. I'm enthusiastic about contributing to open-source projects, startups aiming to make a significant impact, or any initiative focused on enhancing user experiences with cutting-edge technologies. My interests include developing scalable web applications, experimenting with new frameworks, and optimizing existing codebases. I'm eager to apply my expertise and passion for technology in collaboration with like-minded individuals and teams.**
+- I'm seeking to collaborate on innovative projects that push the boundaries of web and software development, especially those utilizing Angular, .NET, or Node.js. I'm enthusiastic about contributing to open-source projects, startups aiming to make a significant impact, or any initiative focused on enhancing user experiences with cutting-edge technologies. My interests include developing scalable web applications, experimenting with new frameworks, and optimizing existing codebases. I'm eager to apply my expertise and passion for technology in collaboration with like-minded individuals and teams.
 
-- 💬 Ask me about:
+- Ask me about:<br>
+. Using Angular to build dynamic, responsive web applications.<br>
+. Full stack development with .NET or Node.js for scalable, robust backend solutions.<br>
+. Leading tech teams to success in fast-paced environments.<br>
+. Best practices for front-end development and UX/UI design.<br>
+. Transitioning from monolithic to microservices architectures.<br>
+. Implementing effective agile methodologies and CI/CD pipelines.<br>
+. Leveraging TypeScript for type-safe, maintainable codebases.<br>
 
-Using Angular to build dynamic, responsive web applications.
-Full stack development with .NET or Node.js for scalable, robust backend solutions.
-Leading tech teams to success in fast-paced environments.
-Best practices for front-end development and UX/UI design.
-Transitioning from monolithic to microservices architectures.
-Implementing effective agile methodologies and CI/CD pipelines.
-Leveraging TypeScript for type-safe, maintainable codebases.
+- How to reach me **AliZiabary@Gmail.com**
 
-- 📫 How to reach me **AliZiabary@Gmail.com**
-
-- ⚡ Fun fact: I can crack jokes in three languages! Whether in English, French, or Persian, I enjoy bringing smiles to people's faces with my humor. This ability serves as a fantastic ice-breaker and also demonstrates my capability to connect with diverse teams and cultures on a more personal level.**
+- Fun fact: I can crack jokes in three languages! Whether in English, French, or Persian, I enjoy bringing smiles to people's faces with my humor. This ability serves as a fantastic ice-breaker and also demonstrates my capability to connect with diverse teams and cultures on a more personal level.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
