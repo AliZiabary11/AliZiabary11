@@ -12,7 +12,7 @@
 . Implementing effective agile methodologies and CI/CD pipelines.<br>
 . Leveraging TypeScript for type-safe, maintainable codebases.<br>
 
-- How to reach me **SeyedZiabary@Gmail.com**
+- How to reach me **AliZiabary@Gmail.com**
 
 - Fun fact: I can crack jokes in three languages! Whether in English, French, or Persian, I enjoy bringing smiles to people's faces with my humor. This ability serves as a fantastic ice-breaker and also demonstrates my capability to connect with diverse teams and cultures on a more personal level.
 
