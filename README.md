@@ -1,4 +1,4 @@
-<h1 align="center">Seyed Ziabary</h1>
+<h1 align="center">Ali Ziabary</h1>
 <h3 align="center">A passionate senior full-stack developer from the US, specializing in Angular and .NET technologies.</h3>
 
 - I'm seeking to collaborate on innovative projects that push the boundaries of web and software development, especially those utilizing Angular, .NET, or Node.js. I'm enthusiastic about contributing to open-source projects, startups aiming to make a significant impact, or any initiative focused on enhancing user experiences with cutting-edge technologies. My interests include developing scalable web applications, experimenting with new frameworks, and optimizing existing codebases. I'm eager to apply my expertise and passion for technology in collaboration with like-minded individuals and teams.
